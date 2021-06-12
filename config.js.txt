@@ -1,0 +1,6 @@
+module.exports = {
+    tokens: ["NzExMzUwNDgwMTMxMDYzODA5.XsBvNQ.4AvjQEPQdonZpzDIFv9TENYnlMM","NzExMzU0NzM1MDcyMTE2ODA4.XsBy6w.RRdsna85BtkLPTWN7jFOwGUAFLs","NzExMzU3ODA4NTIzODcwMjE4.XsB1vw.cd7P-QN5aVmhkHRzW1-Tiw3Toko","NzExMzU3MDk5NDU5ODcwODIx.XsB1Dg.9JAFASvq6GO2Mz5WraX3frOUzYg","NzExMzU1NTM2NTk1MjIyNjIw.XsB0eg.mS_D2JpJVeRAh-O7Le875ogz7hk"], ///توكنات حسابات الترحيب
+    voice_channel: "711363264713457734", ///ايدي الروم اللي بدك يثبت فيه
+    text_channel: "707709630192550052", ///ايدي روم اللي بدك يرحب فيه
+    your_server: "590116292715872256", /// ايدي السيرفر تبعك
+}
